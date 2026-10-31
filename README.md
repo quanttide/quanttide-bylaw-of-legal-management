@@ -4,11 +4,9 @@
 
 ## 文档体系
 
-| 文档 | 说明 |
-|---|---|
-| [generative-ai/index.md](generative-ai/index.md) | 生成式 AI 备案：落实算法安全主体责任基本情况的 MD 填写框架（对应网信办官方模板） |
+法务制度（待补充）。
 
-**generative-ai/** 是生成式 AI 合规的章程工作空间——监管报送材料的结构化母本在此维护，导出盖章后即为提交件。
+> 本仓只放**制度**（必须怎样）。备案申报材料等**材料**类文档在 [quanttide-profile-of-legal-management](https://github.com/quanttide/quanttide-profile-of-legal-management) 维护。
 
 ## 许可
 
